@@ -32,10 +32,11 @@ C programms
      If you find 2 or 5 strong number in any line please calculate sum of that both number and replace it with strong number.
 
      If you find 3 or 7 strong number in any line please reverse all words of that line at same place.
-     
-     
-     
-  
+
+
+
+
+ ###Programs
 *Armstrong Program in ---> Armstrong.c
 *Palindrome Program in ---> Palindrom.c
 *Strong number Program in ---> Strong_number.c
@@ -43,7 +44,10 @@ C programms
 
 
 
-##Output : 
+
+###Output :
+
+
 ***********************START***************************
 Numbers in line - X
  --> XXX
@@ -55,6 +59,7 @@ Count of Armstrong Numbers : X
 Sum of Armstrong Numbers : X
 -----------------------------------------------
 Line modification according to task
+
 
 
 ##Example :
