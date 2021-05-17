@@ -65,8 +65,7 @@ Line modification according to task
 
 
 
-##Example :
-
+## Example :
 
 ***********************START***************************
 Numbers in line - 1
