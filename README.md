@@ -42,18 +42,14 @@ Write C program
 
 
 
- ###Programs
+ ### Programs
  
 * Armstrong Program in ---> Armstrong.c
 * Palindrome Program in ---> Palindrom.c
 * Strong number Program in ---> Strong_number.c
 * file_contents.txt --> source content file
 
-
-
-
-###Output :
-
+### Output :
 
 ***********************START***************************
 Numbers in line - X
