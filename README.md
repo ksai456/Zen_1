@@ -52,9 +52,9 @@ Write C program
 ## Output
 
 Numbers in line - X
- --> XXX
- --> XXX
- --> XXX
+ XXX
+ XXX
+ XXX
 X is Armstrong number
 -----------------------------------------------
 Count of Armstrong Numbers : X
