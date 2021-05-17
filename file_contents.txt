@@ -1,0 +1,15 @@
+Working 560 through this beginners 101 guide to the 1  Linux command line
+(BASH) you will be up and running 1 utilising powerful techniques, 153 tips and
+tricks 370 to make your life easier 202 in no time. 370 The following pages are 232
+intended 1 to give you a solid 478 foundation in how to use the terminal, 40585 to
+get the computer to do useful work for you. You won't be a Unix 153 guru at the
+end but you will be 407 well on your way and 689 armed with the right knowledge
+and skills 2 to get you there if that's what 99 you want (which you should because
+that 890 will make you even more awesome).
+Here 566 you will 144 learn the 1 Linux command line (Bash) 2 with our 13 part
+beginners 888 tutorial. It contains 333 clear descriptions, command 77 outlines,
+examples, 370 shortcuts and best practice.
+At first, the Linux command 371 line may seem daunting, 407 complex and scary.
+It is actually 370 quite simple 1 and intuitive (once you understand what is going 
+on that is), and 787 once you work 1 through the following 232 sections you 2 will
+understand what is going on 1 and 2 and 3 in.
