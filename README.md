@@ -50,33 +50,21 @@ Write C program
 * file_contents.txt --> source content file
 
 ## Output
-'''
-***********************START***************************
+
 Numbers in line - X
  --> XXX
  --> XXX
- --> X
+ --> XXX
 X is Armstrong number
 -----------------------------------------------
 Count of Armstrong Numbers : X
 Sum of Armstrong Numbers : X
 -----------------------------------------------
 Line modification according to task
-'''
+
 
 
 ## Example
 
-![](Output.jpg)
+<img src = "Output.JPG">
 
-***********************START***************************
-Numbers in line - 1
- --> 560
- --> 101
- --> 1
-1 is Armstrong number
------------------------------------------------
-Count of Armstrong Numbers : 1
-Sum of Armstrong Numbers : 1
------------------------------------------------
-command Linux  1 the to guide 101 beginners this through 560 Working 
