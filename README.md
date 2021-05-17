@@ -50,7 +50,7 @@ Write C program
 * file_contents.txt --> source content file
 
 ## Output
-
+'''
 ***********************START***************************
 Numbers in line - X
  --> XXX
@@ -62,7 +62,7 @@ Count of Armstrong Numbers : X
 Sum of Armstrong Numbers : X
 -----------------------------------------------
 Line modification according to task
-
+'''
 
 
 ## Example
