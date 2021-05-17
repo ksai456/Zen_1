@@ -1,6 +1,12 @@
 # Zen_1
 C programms
 
+# Project Title
+
+Write C program
+
+## Description
+
 1) Write a program in C language with taken attached file for refernce.
 
      please find how many armstrong numbers are available in file.
@@ -37,6 +43,7 @@ C programms
 
 
  ###Programs
+ 
 *Armstrong Program in ---> Armstrong.c
 *Palindrome Program in ---> Palindrom.c
 *Strong number Program in ---> Strong_number.c
@@ -63,6 +70,7 @@ Line modification according to task
 
 
 ##Example :
+
 
 ***********************START***************************
 Numbers in line - 1
