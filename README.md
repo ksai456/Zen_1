@@ -67,7 +67,7 @@ Line modification according to task
 
 ## Example
 
-![](output.jpeg)
+![](Output.jpg)
 
 ***********************START***************************
 Numbers in line - 1
