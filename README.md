@@ -67,6 +67,8 @@ Line modification according to task
 
 ## Example
 
+![](output.jpeg)
+
 ***********************START***************************
 Numbers in line - 1
  --> 560
