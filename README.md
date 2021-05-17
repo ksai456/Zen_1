@@ -56,10 +56,8 @@ Numbers in line - X
  XXX
  XXX
 X is Armstrong number
------------------------------------------------
 Count of Armstrong Numbers : X
 Sum of Armstrong Numbers : X
------------------------------------------------
 Line modification according to task
 
 
