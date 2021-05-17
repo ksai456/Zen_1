@@ -36,15 +36,14 @@ C programms
      
      
   
-- [Armstrong Program in ---> Armstrong.c
-- [Palindrome Program in ---> Palindrom.c
-- [Strong number Program in ---> Strong_number.c
-- [file_contents.txt --> source content file
+-[Armstrong Program in ---> Armstrong.c
+-[Palindrome Program in ---> Palindrom.c
+-[Strong number Program in ---> Strong_number.c
+-[file_contents.txt --> source content file
 
 
 
 ##Output : 
--[
 ***********************START***************************
 Numbers in line - X
  --> XXX
@@ -60,7 +59,6 @@ Line modification according to task
 
 ##Example :
 
--[
 ***********************START***************************
 Numbers in line - 1
  --> 560
