@@ -59,8 +59,8 @@ Line modification according to task
 
 
 ##Example :
+
 -[
-________
 ***********************START***************************
 Numbers in line - 1
  --> 560
